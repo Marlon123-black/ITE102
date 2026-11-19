@@ -1,0 +1,51 @@
+import java.util.Scanner;
+ 
+public class Main {
+    public static void main(String[] args) {
+        Scanner input = new Scanner(System.in);
+ 
+        double[][][] grades = new double[2][3][3];
+ 
+        String[] subjects = {
+            "Java", "Database", "Networking"
+        };
+        System.out.println("   STUDENT GRADE MANAGEMENT SYSTEM");
+ 
+        for (int section = 0; section < 2; section++) {
+ 
+            System.out.println("\nSECTION " + (section + 1));
+ 
+            double sectionTotal = 0;
+ 
+            for (int student = 0; student < 3; student++) {
+ 
+                System.out.println("\nStudent " + (student + 1));
+                double total = 0;
+                for (int subject = 0; subject < 3; subject++) {
+ 
+                    System.out.print(
+                        "Enter " + subjects[subject] + " grade: "
+                    );
+                    grades[section][student][subject] =
+                        input.nextDouble();
+ 
+                    total += grades[section][student][subject];
+                }
+                double average = total / 3;
+                System.out.printf(
+                    "Student %d Average: %.2f%n",
+                    student + 1, average
+                );
+                sectionTotal += total;
+            }
+            double sectionAverage = sectionTotal / 9;
+            System.out.printf(
+                "\nSECTION %d AVERAGE: %.2f%n",
+                section + 1, sectionAverage
+            );
+        }
+        System.out.println("\n       PROGRAM COMPLETED!");
+ 
+    }
+}
+ 
