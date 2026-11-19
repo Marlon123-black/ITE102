@@ -13,10 +13,10 @@ I am a kind and friendly person who always tries my best in everything I do. I e
  ## 💻 My Projects  
 
 ### 🧪 MIDTERM  
-(https://github.com/Marlon123-black/ITE102/blob/5f8ff674ca1985a9248d3ddb5d296b5c1d919aa1/LABTASKS/MIDTERM/LAB%20TASK%201/ITE102_LANSANGANPRINCEJOHN_ARTHURGABRIEL_LABTASK1.pdf)
+[Midterm Lab Task #1](https://github.com/Marlon123-black/ITE102/blob/5f8ff674ca1985a9248d3ddb5d296b5c1d919aa1/LABTASKS/MIDTERM/LAB%20TASK%201/ITE102_LANSANGANPRINCEJOHN_ARTHURGABRIEL_LABTASK1.pdf)
 
-[Midterm Lab Task #2]
-(https://github.com/Marlon123-black/ITE102/blob/13ddd7e706e41c6061dab209fc896c8162a2caf9/LABTASKS/MIDTERM/LAB%20TASK%202/Laboratory%20task%202.pdf)
+[Midterm Lab Task #2](https://github.com/Marlon123-black/ITE102/blob/13ddd7e706e41c6061dab209fc896c8162a2caf9/LABTASKS/MIDTERM/LAB%20TASK%202/Laboratory%20task%202.pdf)
+
 ## ⚡ Fun Fact About Me:
 
 - 🧠 You can spend hours fixing one tiny bug and feel like a genius when it finally works.
